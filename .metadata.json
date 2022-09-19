@@ -1,5 +1,9 @@
 [
   {
+    "package": "ds4psy",
+    "oncran": true
+  },
+  {
     "package": "riskyr",
     "oncran": true
   },
