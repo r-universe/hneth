@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "unikn"]
-	path = unikn
-	url = https://github.com/hneth/unikn
+[submodule "ds4psy"]
+	path = ds4psy
+	url = https://github.com/hneth/ds4psy
 	shallow = true
 	registered = true
 [submodule "riskyr"]
@@ -13,8 +13,8 @@
 	url = https://github.com/hneth/riskyr
 	shallow = true
 	registered = true
-[submodule "ds4psy"]
-	path = ds4psy
-	url = https://github.com/hneth/ds4psy
+[submodule "unikn"]
+	path = unikn
+	url = https://github.com/hneth/unikn
 	shallow = true
 	registered = true

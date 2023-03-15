@@ -1,6 +1,6 @@
 [
   {
-    "package": "unikn",
+    "package": "ds4psy",
     "oncran": true
   },
   {
@@ -8,7 +8,7 @@
     "oncran": true
   },
   {
-    "package": "ds4psy",
+    "package": "unikn",
     "oncran": true
   }
 ]
