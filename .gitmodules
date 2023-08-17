@@ -8,6 +8,9 @@
 [submodule "riskyr"]
 	path = riskyr
 	url = https://github.com/hneth/riskyr
+[submodule "unicol"]
+	path = unicol
+	url = https://github.com/hneth/unicol
 [submodule "unikn"]
 	path = unikn
 	url = https://github.com/hneth/unikn
